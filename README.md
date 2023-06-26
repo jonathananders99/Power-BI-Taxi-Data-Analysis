@@ -48,7 +48,7 @@ To access the Power BI report, download the [Covid Taxi Report.pbix](https://1dr
 
 Here is a visual representation of the trip analysis specific to the year 2020.
 
-![Screenshot of 2020 Trip Analysis](Screenshot of 2020 Trip Analysis.jpg)
+![](Screenshot_of_2020_Trip_Analysis.jpg "Screenshot_of_2020_Trip_Analysis")
 
 ## How to Run the Project
 
