@@ -2,7 +2,7 @@
 
 ## Description
 
-This project aims to explore the yellow and green taxi data before, during, and after the COVID-19 pandemic in New York City. The analysis includes data from 2018 to 2022 obtained from the official website of the New York City Taxi and Limousine Commission.
+This project aims to explore the yellow and green taxi data before, during, and after the COVID-19 pandemic in New York City. The analysis includes data from 2018 to 2022 obtained from the official website of the New York City Taxi and Limousine Commission, consisting of approximately **300 million** rows of data.
 
 ## Data Collection
 
